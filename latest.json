@@ -1,9 +1,9 @@
 {
   "version": "0.1.0",
   "url": "https://github.com/local-voice-assistant/local-dictation/releases/download/v0.1.0/LocalDictation-0.1.0-arm64.dmg",
-  "sha256": "2660e57b2850a7e9085c4fbef3f7fc9d8438b0c560c399bca6b2ef7c72638948",
+  "sha256": "76975de305bf4263cc4dbb8013b9231b1311d28ad12145954d93b75451a9b46b",
   "notes": "见 GitHub Release 说明",
-  "publishedAt": "2026-10-30T15:24:03Z",
+  "publishedAt": "2026-10-30T15:46:13Z",
   "arch": "arm64",
   "minOs": "13.0"
 }
