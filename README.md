@@ -3,7 +3,7 @@
 **在 Mac 菜单栏里把语音写成文字，写到当前光标处**  
 识别模型在本机 · 不上传录音 · 可连接电子工牌
 
-[下载安装包](https://github.com/local-voice-assistant/local-dictation/releases/latest) · [安装说明](DOWNLOAD.md) · [隐私说明](legal/PRIVACY.md) · [本地转写｜语音助手｜AI洞察](https://github.com/local-voice-assistant/local-voice-assistant)
+[下载安装包](https://github.com/local-voice-assistant/local-dictation/releases/latest) · [安装说明](DOWNLOAD.md) · [隐私说明](legal/PRIVACY.md)  更多功能 =>  [本地转写｜语音助手｜AI洞察](https://github.com/local-voice-assistant/local-voice-assistant)
 
 ![本地听写：把语音写入光标，并可连接电子工牌](assets/hero.jpg)
 
